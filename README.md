@@ -44,9 +44,7 @@ project-root/
 ├── server/
 │   ├── server.js
 │   ├── package.json
-│
-├── client/
-│   ├── index.html
+|── index.html
 │
 ├── docker-compose.yml
 ├── Dockerfile
